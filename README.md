@@ -2,8 +2,6 @@
 
 FlashNotes is a Python-based flashcard application that allows you to learn interactively by flipping and cycling through flashcards. It's designed to be lightweight, customizable, and easy to use.
 
-![flashnote](https://github.com/user-attachments/assets/cc21258f-0bd4-4fe6-88a3-dc039d0d92fc)
-
 ## Features
 
 - **Customizable Data**: Use your own CSV file to create personalized flashcards.
